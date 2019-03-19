@@ -7,4 +7,8 @@
 
 ## 招募職缺列表
 
-* [Junior Web Developer](https://github.com/theqwan/recruit/issues/1) (2019.02)
+* [Assistant Project Manager](https://github.com/theqwan/recruit/issues/2) (2019.03)
+
+## 已關閉職缺
+
+* ~~[Junior Web Developer](https://github.com/theqwan/recruit/issues/1) (2019.02)~~
